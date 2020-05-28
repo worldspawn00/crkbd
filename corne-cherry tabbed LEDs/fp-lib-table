@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name WS2812Brearmount)(type KiCad)(uri "${KIPRJMOD}/WS2812B mini rear mount/WS2812Brearmount.pretty")(options "")(descr ""))
+)
